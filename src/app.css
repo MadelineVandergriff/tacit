@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .debug {
-    @apply border-solid border border-pink-500
+	@apply border border-solid border-pink-500;
 }
